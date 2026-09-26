@@ -112,47 +112,11 @@ The quiz result is saved in the MySQL database.
 
 ## Author
 
-M. Nathiya
+V.Ramashanmugi
+
 
 ## GitHub Repository
 
 [https://github.com/ramashanmugi-v/Online-Quiz-Application](https://github.com/ramashanmugi-v/Online-Quiz-Application)
 
-```
-```
 
-````
-
-### 5.3 Save Pannu
-
-`Ctrl + S` press pannu da.
-
-**README.md file create aagidum.** ✅
-
----
-
-## STEP 6: GitHub-la README Upload Pannu
-
-VS Code Terminal-la indha commands order-ah run pannu:
-
-```powershell
-git add README.md
-````
-
-```
-```
-
-```
-git commit -m "Add project README"
-```
-
-```
-```
-
-```
-git push
-```
-
-Upload mudinjadhum un GitHub repository open pannu:
-
-Online Quiz Application – GitHub 
